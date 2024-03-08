@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  total_amount: 9.99
+  icon: MyString
+  participation_type: 1
+  expense_date: 2024-02-05
+
+two:
+  name: MyString
+  total_amount: 9.99
+  icon: MyString
+  participation_type: 1
+  expense_date: 2024-02-05
